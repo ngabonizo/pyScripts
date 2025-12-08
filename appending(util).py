@@ -10,3 +10,4 @@ def append(list, item):
 
 append(num, 400)
 print(num, 'number')
+#this append util function actually deletes the last list value so its not a correct implementation of append()
